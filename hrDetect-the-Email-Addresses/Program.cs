@@ -28,7 +28,6 @@
                 sb.Append(';');
             }
             Console.WriteLine(sb.ToString().Trim(';'));
-            Console.ReadLine();
         }
     }
 }
